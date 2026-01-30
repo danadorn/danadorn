@@ -1,4 +1,3 @@
-<h1 align="center">This is Dana</h1>
-<h3 align="center">Full Stack Developer in Progress</h3>
-<h4 align="center">turning caffeine into web apps ☕💻</h4>
+<h1 >This is Dana</h1>
+<h4 > i dont know why it works either🤷‍♂️</h4>
 
