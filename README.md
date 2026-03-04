@@ -1,5 +1,5 @@
 <h1 align="center">This is Dana</h1>
-<h3 align="center">Frontend Developer focused on building clean & responsive web apps ☕💻</h3>
+<h3 align="center">Full Stack Developer in Progress, turning caffeine into web apps ☕💻</h3>
 
 <h3 align="left">💻 Programming Languages</h3>
 <p align="left">
